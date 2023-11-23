@@ -1,0 +1,103 @@
+.nav1{
+    background-color: black;
+    height: 75px;
+    width: 1250px;
+    display: flex;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+.fir{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 20%;
+}
+.sec{
+    color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 25%;
+}
+.thr{
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    width: 55%;
+    color: blue;
+}
+.nav2{
+    background-color:blue;
+    height: 75px;
+    width: 1250px;
+    display: flex;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+.fir1{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 20%;
+}
+.sec1{
+    color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 25%;
+}
+.thr1{
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    width: 55%;
+    color: blue;
+}
+.nav3{
+    background-color: lightcyan;
+    height: 75px;
+    width: 1250px;
+    display: flex;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+.fir2{
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 20%;
+}
+.sec2{
+    color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 25%;
+}
+.thr2{
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    width: 55%;
+    color: blue;
+}
+.b1{
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid lightskyblue;
+    height: 50px;
+    width: 120px;
+    color: aqua;
+    font-size: larger;
+    margin: 10px;
+}
+.in{
+    border-radius: 5px;
+    height: 45px;
+    width: 250px;
+    font-size: large;
+}

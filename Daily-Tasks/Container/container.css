@@ -1,0 +1,30 @@
+.container{
+    height: 400px; 
+    border: 2px solid black; 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.cntr1{
+    border: 2px solid black;
+height: 200px;
+width: 250px;
+
+}
+.cntr2{
+    border: 2px solid black;
+    height: 200px;
+    width: 250px;
+    background: url(https://tse1.mm.bing.net/th?id=OIP.JIPPpcG_UpeomtP6cfQxJgHaEo&pid=Api&P=0&h=220);
+
+}
+.cntr2:hover{
+    background: url(https://tse3.mm.bing.net/th?id=OIP.vla0SZJqiT_-Qw-ksm2scAHaEK&pid=Api&P=0&h=220);
+    background-repeat: no-repeat;
+    
+    
+
+
+}
+
+
